@@ -1,0 +1,210 @@
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Controladora.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Controladora.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Espectaculo.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Espectaculo.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\obj\Debug\Controladora.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Controladora\obj\Debug\Controladora.pdb
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\csc.exe
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\vbc.exe
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\VBCSCompiler.exe
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Controladora.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Controladora.pdb
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Espectaculo.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.Web.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Utilidades.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Espectaculo.pdb
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Utilidades.pdb
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.Web.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\obj\Debug\Controladora.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Controladora\obj\Debug\Controladora.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Controladora.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Controladora.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Espectaculo.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Espectaculo.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\obj\Debug\Controladora.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Controladora\obj\Debug\Controladora.pdb
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\csc.exe
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\vbc.exe
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\VBCSCompiler.exe
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Controladora.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Controladora.pdb
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Espectaculo.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.Web.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Utilidades.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Espectaculo.pdb
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Utilidades.pdb
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.Web.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\obj\Debug\Controladora.dll
+C:\Users\Karina\Downloads\Espectaculos\Espectaculos\Espectaculos\Espectaculos\Controladora\obj\Debug\Controladora.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Controladora.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Controladora.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Espectaculo.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Espectaculo.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\obj\Debug\Controladora.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Ultima version\Controladora\obj\Debug\Controladora.pdb
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\csc.exe
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\vbc.exe
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\VBCSCompiler.exe
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Controladora.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Controladora.pdb
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Espectaculo.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.AI.Web.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Utilidades.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Espectaculo.pdb
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Utilidades.pdb
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.AI.Web.xml
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Karina\Desktop\Ultima version\Controladora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Karina\Desktop\Ultima version\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\Karina\Desktop\Ultima version\Controladora\obj\Debug\Controladora.dll
+C:\Users\Karina\Desktop\Ultima version\Controladora\obj\Debug\Controladora.pdb

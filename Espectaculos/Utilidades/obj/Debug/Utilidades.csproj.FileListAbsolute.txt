@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Espectaculos\Espectaculos\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Karina\Desktop\Ultima version\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Karina\Desktop\Ultima version\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Karina\Desktop\Ultima version\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Karina\Desktop\Ultima version\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Karina\Desktop\Ultima version\Utilidades\obj\Debug\Utilidades.pdb

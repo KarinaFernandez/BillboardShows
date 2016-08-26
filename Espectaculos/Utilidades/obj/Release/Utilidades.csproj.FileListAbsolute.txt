@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Utilidades\bin\Release\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Utilidades\bin\Release\Utilidades.pdb
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Utilidades\obj\Release\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Utilidades\obj\Release\Utilidades.dll
+C:\Users\Usuario\Documents\ORT\ATI\sem 2\Taller 2\2016\Espectaculos\Utilidades\obj\Release\Utilidades.pdb
